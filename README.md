@@ -1,50 +1,53 @@
 # Eighteenpence.HTML
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Author Name">
-    <meta name="description" content="A novel by Author Name">
-    <title>Novel Title</title>
+    <title>The Anglo-Fanti by Kobina Sekyi</title>
+    <link rel="stylesheet" href="css/styles.css">
     <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            margin: 20px;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
         }
-        h1, h2 {
-            text-align: center;
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        .chapter {
-            margin-top: 40px;
+        h1, h2, h3 {
+            color: #333;
         }
-        .chapter-title {
-            font-size: 24px;
-            font-weight: bold;
-            margin-bottom: 20px;
+        p {
+            margin: 10px 0;
         }
         footer {
-            margin-top: 50px;
             text-align: center;
-            font-size: 14px;
-            color: #555;
+            padding: 10px;
+            background: #333;
+            color: white;
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
-    <h1>Novel Title</h1>
-    <h2>By Author Name</h2>
+    <div class="container">
+        <h1>The Anglo-Fanti by Kobina Sekyi</h1>
+        
+        <section id="introduction">
+            <h2>A Short Story</h2>
+            <h3> Part 1</h3>
+            <h4> Boyhood</h4>
+            <h5> Early Days</h5>
+            <p>
 
-    <div class="chapter">
-        <div class="chapter-title">Chapter 1: Chapter Title</div>
-        <p>Once upon a time, in a land far away, there was a small village where everyone lived in peace...</p>
-        <p>The villagers were happy and content, but one day, something extraordinary happened...</p>
-    </div>
-
-    <div class="chapter">
-        <div class="chapter-title">Chapter 2: Another Chapter Title</div>
-        <p>CHAPTER 1
+	
 The Purchase
 
  <p>IN THE ancient and salubrious town of Abetifi, in the country of Kwahu, in the reign of Nana Addo Kese Pamboo, there lived a man whose name was Obeng-Akrofi. Obeng, though kind- hearted, was as poor as a church rat. He was also so self-conscious that he could not approach any of his friends or relatives for anything. His property on earth, besides his only cloth which was threadbare, was a small dog who followed him anywhere he went. This dog he named "Poor-no-Friend". </p>
