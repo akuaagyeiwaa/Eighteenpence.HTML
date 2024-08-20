@@ -41,10 +41,10 @@
         <h1>The Anglo-Fanti by Kobina Sekyi</h1>
         
         <section id="introduction">
-            <h2>A Short Story</h2>
-            <h3> Part 1</h3>
-            <h4> Boyhood</h4>
-            <h5> Early Days</h5>
+            <h2>Chapter One</h2>
+            <h3> The Purchase</h3>
+            
+            
             <p>
 
 	
