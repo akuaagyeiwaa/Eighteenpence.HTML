@@ -183,86 +183,116 @@ The young girl rose to her feet, and in fit of anger said to the Sword-Bearer: "
 <p>The Tribunal Registrar then stood up, and Adusei Akyakya and the other Court-Criers cried loudly saying: "Yeretie, yeretie, oo! Aso nto nkom! odede oo!" That is: 'Hearken ye. All ears must be quiet as if in sleep. Keep perfect silence, everybody.׳ Adusei, the Chief of the Court-Criers, wore his cap made of the skins of a white monkey, finished with red baft; his subordinates wore theirs made of the skin of the ordinary black monkey. </p>
 <p>After this official bidding of silence, perfect silence deep 20 as death ruled over the Court. The Registrar then held his charge-book in both hands, and loudly and distinctly read the charges against Konaduwa. </p>
 <p>State Versus Konaduwa </p>
-(i)	"That you, on Saturday, the fifth of July, 1913, at a farm, did say that a certain man attempted rape on you, contrary to the customs of the state, but when you came home, you failed to report the case. Are you guilty or not guilty?" 
+<p>(i)	"That you, on Saturday, the fifth of July, 1913, at a farm, did say that a certain man attempted rape on you, contrary to the customs of the state, but when you came home, you failed to report the case. Are you guilty or not guilty?" </p>
 
-"Not Guilty." 
+<p>"Not Guilty." </p>
 
-(ii)	"That you, on the same day and place, did say that a certain man attempted to take your life; but when you came home, you did not report it, but by intentional concealment broke the Great Oath of the Omanhene. Are you guilty or not guilty?" 
+<p>(ii)	"That you, on the same day and place, did say that a certain man attempted to take your life; but when you came home, you did not report it, but by intentional concealment broke the Great Oath of the Omanhene. Are you guilty or not guilty?" </p>
 
-"Not Guilty." 
+<p>"Not Guilty." </p>
 
-(iii)	"That you, on the same date, in the town of Abetifi, and in your house, did swear the Great Oath of the State and enforced it with fetish oath by Fofie and Obonyame that your husband must divorce you contrary to the customs of the state. What do you plead?"
+<p>(iii)	"That you, on the same date, in the town of Abetifi, and in your house, did swear the Great Oath of the State and enforced it with fetish oath by Fofie and Obonyame that your husband must divorce you contrary to the customs of the state. What do you plead?"</p>
 
- "Guilty, but with Explanation." 
+ <p>"Guilty, but with Explanation."</p> 
 
-(iv)	"That you, in the same day, and in your premises, did charge all the Adontenhene's brave warriors who assembled there with cowardice and compared them with kapok which is a very comprehensive insult. What do you plead? 
+<p>(iv)	"That you, in the same day, and in your premises, did charge all the Adontenhene's brave warriors who assembled there with cowardice and compared them with kapok which is a very comprehensive insult. What do you plead? </p>
 
-"Not Guilty."  
+<p>"Not Guilty." </p> 
 
-(v)	"That you, on the same day, and in this town did say that somebody was bold enough to speak ill against the Adontenhene whom we adore with all possible awe and reverence; and also against the esteemed Queen-mother as well as the Elders of this town; but you intentionally concealed it; contrary to the customs of this state. Are you guilty or not guilty?"
+<p>(v)	"That you, on the same day, and in this town did say that somebody was bold enough to speak ill against the Adontenhene whom we adore with all possible awe and reverence; and also against the esteemed Queen-mother as well as the Elders of this town; but you intentionally concealed it; contrary to the customs of this state. Are you guilty or not guilty?"</p>
 
- "Not Guilty." 
+<p> "Not Guilty." </p>
 
-(vi)	"That you on the same day, and in your premises, did say that your husband has bought a slave contrary to the British laws. Are you guilty or not guilty?" 
+<p>(vi)	"That you on the same day, and in your premises, did say that your husband has bought a slave contrary to the British laws. Are you guilty or not guilty?" </p>
 
-"I will be answerable to the British Court, not to you."
- The Registrar turned to the Akyeame and asked them to tell the Adontenhene and his Elders all what the accused had said.
- The accused was then asked to go into the witness box to give her evidence. She went; but when she was asked to swear that she would tell the truth, the whole truth, and nothing but the truth; she asked with pretentious dignity: "And who is the plaintiff in this case?" 
- "The State," Okyeame Safo replied. "We will examine you, and if we satisfy ourselves that you are innocent, you will be acquitted; if not, you will be dealt with according to the laws the State." 
-"Right, will any of the Elders here assembled examine me too?״ 
- "Decidedly," said the Mankrado
- "And will the Adontenhene too exercise his usual power of ordering one of you to pronounce judgment?"
- "Exactly so," said one of the Akyeame. 
-"And who will retire into consultation before the judgement is given?"
-"The Elders, as usual." 
-The accused then said with blazing audacity: "As it is, I find that I am like a cockroach who has fallen amongst a multitude of fowls. There is nobody in this court who will give ear to my defence, for all of you are interested in the case. I will therefore reserve my defence until fresh people who have no interest in the case sit on it."
- A very tumultuous noise arose in the court. Some enthusiasts admired her far-sightedness, and others reproached her for her impenetrable stubbornness. Tortuous and circuitous questions were pelted at her, but she did not say a word. 
-The Adontenhene who had been silent since the opening of the court, then prepared to speak. Adusei Akyakya and all the linguists stood up, according to custom, and the court criers shouted for silence, and perfect silence reigned at the premises. Addressing Okyeame Owusu, the Adontenhene said: "Ask Konaduwa by which court she would like her case to be tried?" 
-She replied that she preferred the District Commissioner's Court. 
-"Does she not like that the Omanhene tries her?" 
-"No, Nana." 
-"Why?"
- "Because he is your kinsman; and, besides, in any fine that you collect at the court he has a share." 
-"Does she mean then that the Omanhene will be biased towards her?" "Emphatically yes."
- "Her father and her husband, who stood surety for her became sorely afraid; and asked her to retract what she said, else the consequence would be far worse than what they expected. Konaduwa told them that if they had the hearts of rabbits, they should retire. 
-The Adontenhene then ordered that two sheep should be caught and slaughtered instantly, because of the statement the accused made at the open court against the Omanhene.  This having been done, he calmly granted the woman her permission to withdraw the case to the District Commissioner's court as ' J -׳she desired. The forelegs of the sheep were sent to her, and נ the flesh sent through some Nhenkwaa to the Omanhene  Boateng Asabranna. 
+<p>"I will be answerable to the British Court, not to you."
+ The Registrar turned to the Akyeame and asked them to tell the Adontenhene and his Elders all what the accused had said.</p>
+ 
+<p> The accused was then asked to go into the witness box to give her evidence. She went; but when she was asked to swear that she would tell the truth, the whole truth, and nothing but the truth; she asked with pretentious dignity: "And who is the plaintiff in this case?" </p>
 
-CHAPTER 7 
-Before the District Commissioner 
-WHEN THE assembly broke up, Konaduwa sped quickly away with the intention to go to Asiakwa to report the case to the District Coin mission er. But at Anyinam, the Birem had overflown its banks and a ferry-toll of sixpence was exacted by the ferrvmen from, every passenger. Konaduwa was asked by one of the ferrymen to pay the amount. A smile like eternal sunshine parted her lips and brightened her teeth, which had a gap at the centre of the upper row.
+ <p>"The State," Okyeame Safo replied. "We will examine you, and if we satisfy ourselves that you are innocent, you will be acquitted; if not, you will be dealt with according to the laws the State."</p>
+ 
+<p>"Right, will any of the Elders here assembled examine me too?״ </p>
+ <p>"Decidedly," said the Mankrado</p>
+ <p>"And will the Adontenhene too exercise his usual power of ordering one of you to pronounce judgment?"</p>
+ <p>"Exactly so," said one of the Akyeame. </p>
+<p>"And who will retire into consultation before the judgement is given?"</p>
+<p>"The Elders, as usual."</p> 
+<p>The accused then said with blazing audacity: "As it is, I find that I am like a cockroach who has fallen amongst a multitude of fowls. There is nobody in this court who will give ear to my defence, for all of you are interested in the case. I will therefore reserve my defence until fresh people who have no interest in the case sit on it."</p>
+
+ <p>A very tumultuous noise arose in the court. Some enthusiasts admired her far-sightedness, and others reproached her for her impenetrable stubbornness. Tortuous and circuitous questions were pelted at her, but she did not say a word. </p>
+ 
+<p>The Adontenhene who had been silent since the opening of the court, then prepared to speak. Adusei Akyakya and all the linguists stood up, according to custom, and the court criers shouted for silence, and perfect silence reigned at the premises. Addressing Okyeame Owusu, the Adontenhene said: "Ask Konaduwa by which court she would like her case to be tried?" </p>
+
+<p>She replied that she preferred the District Commissioner's Court. </p>
+<p>"Does she not like that the Omanhene tries her?" </p>
+<p>"No, Nana." </p>
+<p>"Why?"</p>
+ <p>"Because he is your kinsman; and, besides, in any fine that you collect at the court he has a share." </p>
+<p>"Does she mean then that the Omanhene will be biased towards her?" "Emphatically yes."</p>
+ <p>"Her father and her husband, who stood surety for her became sorely afraid; and asked her to retract what she said, else the consequence would be far worse than what they expected. Konaduwa told them that if they had the hearts of rabbits, they should retire. </p>
+<p>The Adontenhene then ordered that two sheep should be caught and slaughtered instantly, because of the statement the accused made at the open court against the Omanhene.  This having been done, he calmly granted the woman her permission to withdraw the case to the District Commissioner's court as ' J -׳she desired. The forelegs of the sheep were sent to her, and נ the flesh sent through some Nhenkwaa to the Omanhene  Boateng Asabranna. </p>
+
+<h2>CHAPTER 7 </h2>
+<h3>Before the District Commissioner </h3>
+<p>WHEN THE assembly broke up, Konaduwa sped quickly away with the intention to go to Asiakwa to report the case to the District Coin mission er. But at Anyinam, the Birem had overflown its banks and a ferry-toll of sixpence was exacted by the ferrvmen from, every passenger. Konaduwa was asked by one of the ferrymen to pay the amount. A smile like eternal sunshine parted her lips and brightened her teeth, which had a gap at the centre of the upper row.</p>
+
 ”׳By Jove”, exclaimed the ferry-man, "this woman has exceptionally fine teeth. Madam., keep your sixpence and I will pay it for you."
 Konaduwa thanked him with a bow, and tied up her coin in the corner of her handkerchief. 
-The man then asked some of his friends to assist in putting the woman's luggage aboard the pontoon. The passengers who were to go on the pontoon were too many, so some of them were eager to push past Konaduwa. It began to rain suddenly. The other ferrymen remained in a hut erected on the other bank of the river, thatched with palm leaves. There was a small fire around which they squatted with their hands spread over it to keep themselves warm. As it was still raining, the passengers remained on the far bank, and by shouting they begged the ferrymen to bring the pontoon to take them across.
- The toll-collector said that because of the dark and attractive woman he would go with the pontoon assisted by one of his friends. When they got to the other side of the river, they found that all the people had been soaked to the skin. Konaduwa's teeth were chattering, and she was trembling with acute fever. She was taken by the hand and placed on the pontoon. Her belongings were removed safely, and because of her illness, care was taken that the vessel would not be overloaded. But the other passengers, freezing with cold, rushed aboard, and one man knocked the sick woman's portmanteau into "the river. A boy saw the man who did so, ’and told him audibly that he had 'sunk' somebody's portmanteau. When they landed, it was found that Konaduwa's portmanteau was missing, the boy pointed out the culprit, who admitted the charge and said he did not do so with intention. 
-The ferryman said that if it did not contain much wealth, the man should buy another one for her; for they could not dive into the river in search of it. But Konaduwa told them P that she was involved in a case which might cost her over one I hundred pounds, so she was on her way to Asiakwa to request the District Commissioner to either squash the case for her or to minimise the fine. In view of the case, she had obtained a loan of one hundred and fifty pounds, partly in cash and partly in trinkets which she could dispose of for cash if needful. She could therefore not go to Asiakwa without the portmanteau and its valuable contents.
- On hearing this, divers jumped into the river in search of it, but all came out again empty-handed. It was sundown, and it was still raining, therefore the men dispersed one by one like people who have come to buy or sell at a market. Konaduwa became infuriated, and though she was ill and cold, she rolled herself hither and thither on the ground and screamed and yelled like a dog who had been frightened, and permitted no consolation. 
-The offender, who had not thought the loss was so great, 2	Note Obeng's use of the Ghanaian term 'trinket' for gold jewellery. In Text B this has been changed to 'jewels'. 26 stood looking at her, and seeing her agony nearly drowned himself. In his apprehension, he stated that a man had hired him for three shillings to go to Dodowa to buy two young sows and a young pig for him. He had received one shilling advance, and the employer gave him fifteen shillings to pay for the pigs. All the money he had on him was sixteen shillings. .He paid his ferry fare with sixpence and it remained fifteen shillings and sixpence. 
-The case was therefore to be taken to the Odekuro of Anvinam,_who ordered that both Konaduwa and the man should be sent to Kyebi. The woman insisted upon seeing the District ״ Commissioner" first before they reached Kyebi to see the - Omanhene of Abuakwa; but the messengers of the Odekuro did not permit this; they therefore went to Kyebi direct. 
-According to custom, they had to see an Okyeame before going to the Omanhene; they therefore went to the house of Okyeame Aninkora who led them to the Palace. The messengers gave their errand and after a few questions had been thrown to the parties to ascertain the value of the money involved, the Omanhene told them that he had no jurisdiction over a case involving one hundred and fifty pounds so he asked his Chief-Sword-Bearer to send them to the District Commissioner at Asiakwa. Before they departed, the Omanhene gave them some palm-wine to hold their stomachs. The Anyinam messengers returned to their village, and the Omanhene's man and the two litigants, together with their witnesses, went to Asiakwa.
- The sergeant in charge of the Police Barracks was first greeted, and the Okyenhene's messenger told him his errand. Next Konaduwa was asked to make her statement. She did so. The man who had knocked the portmanteau overboard did the same. The next day, the charge-book was put before the District Commissioner. 
-The Commissioner inquired whether it was a mere com- it or a summons. Konaduwa said she had no more money on her to make any summons, and entreated the District Commissioner to kindly collect her hundred-and-fifty pounds for her. The District Commissioner again inquired why a woman should travel with so much money when she was not going to trade with it.
- This gave the woman the chance to narrate her whole story. She sent for another bag which formed part of her luggage, and emptied the contents, which were the leg-bones of the many sheep slaughtered in Kwahu in connection with her case. At this, the District Commissioner asked her to go home and wait until he heard from the Omanhene of Kwahu about her case. The Registrar was asked to draft a letter to the Omanhene of Kwahu asking for information about one Konaduwa, who had come to him with the legs of many sheep which she alleged were slaughtered against her. The letter was completed and sent to the Asiakwahene for immediate dispatch. 
- The next morning, the District Commissioner came to court to examine the case of the lost portmanteau. When he had heard Konaduwa's statement, he asked the man how he could replace the amount. The man replied that he did not think the A' woman had had that amount of money with her, but because the portmanteau was lost she mentioned that amount. He added that he could not replace it, and the court" would have to punish him in some other way, he would have nothing to say, but to submit to any punishment. Before the District Commissioner could speak, the woman became intensely angry, and began to shower abuse on the man and on the court in general. A constable ordered "Silence," but then she turned on him and said if he had had one hundred and fifty pounds which had been lost through another man's folly, he would not have shouted "Silence, Silence," to disturb them. The constable was so annoyed that he reported the case to the District Commissioner, and threatened to beat the woman after the Court had risen, for as a woman, she had no right to charge him with "Fool", according to the established custom of the Akan. 
-The woman then said: "Has somebody gone to defecate3 in your ears? When did I charge you with being a fool, you “stupid one?"
- The constable again told the District Commissioner what the woman had said, and he, in turn, ordered that the woman should be charged at once.
- Mr. Richard Jones, the Registrar, then conferred with the District Commissioner for a few minutes and then sat down to frame the Charge. This ran as follows: 
-Rex Versus Konaduwa 
-"That you on the 14th day of July, 1913, at Asiakwa, did insult and abuse Constable Musa Buzanga during the execution of his duty, thus committing contempt of the King's Court. Are you guilty or not guilty?" 
-"Is this what the English Court is like?" queried the woman astonishingly. "When a case has not been tried, how can one say one is guilty or not? Even if the case has been tried, how do you expect that one should pronounce one's own judgment against oneself? Tell the District Commissioner that I cannot possibly answer that question."
- When he heard this, the District Commissioner said:
- "Konaduwa, you are making matters worse. At first you com- miffed contempt of the King's Court, and now you are committing the same misdemeanour towards the King's Judge. Mr. Jones, do frame the second charge, and commit the woman for trial."
- The Registrar promptly obeyed, and wrote and read the charge below to the woman. 
-Rex Versus Konaduwa 
-"That you, on the fourteenth day of July, 1913, at Asiakwa, did speak against the established procedure of the British Court and also against the District Commissioner who is the King's Judge. Are you guilty or not guilty?"
- 	 "If you ask me this question one hundred times, I will y d remain mum for as many times. Even if I know that I am guilty, I will never tell you that I am guilty, and ask you to pronounce judgment against me. If I tell you that I am not guilty you, would not let me go scot-free; but if I say that I am guilty, you will at once pronounce judgement. The Governor sent you here to decide cases before you get your pay, and if you have not fully learnt how to try cases, you should go back to your own country to learn your law properly and also how to judge cases without troubling a woman by asking her "'Are you guilty or not guilty?" 
- "This woman is demented," said the District Commissioner to Mr. Jones. "I think as that, Sir," replied Mr. Jones. "If so, she should be sent to Accra for mental examination, and if the medical officer thinks it is right, she should be sent to the asylum." Konaduwa was at once handcuffed and given to the Escort police to march her to Accra. The man she had accused, who was captivated by Konaduwa's beauty and teeth, and above all by her stammering, approached the District Commissioner and begged him to punish the woman in any other way, and he would bear the punishment for her for he believed that the loss of her property, amounting to one hundred and fifty pounds motivated her stubbornness. The District Commissioner was inclined to agree, but could not revoke his own orders, so off the police went with the prisoner.
- When they were a few miles out the town, they met a certain man going into town carrying a pot of palm-wine. One of the constables offered to buy it, and when they had emptied the pot, they went off without paying for it. The owner, on insisting payment, was given a sharp slap that sent him down. 
-"What?" cried Konaduwa. "Do you policemen act in this way? Did not your master give you some money to pay your way? When the Asantehene's servants were doing the same thing, your master came and took them away. If that was bad why are you doing the same thing?"
- "If you don't shut up, I will beat you," said one of the constables. 
-"You fear to do that," said Konaduwa. "If you dare, you will see that in the flint there is fire."
- The corporal hushed his friend and said: "The woman is as dangerous as a loaded gun, so be careful, she can charge you and send you to prison." 
-They did not speak with her again. 
-Amoako, the ferryman, who was enchanted by the woman, followed them to Accra and to the Principal Medical Officer's office and boldly explained the situation to him. When the doctor examined the woman, he found that she was not mad, but that she had some mental depression which, in his opinion, motivated the impudence" oh the woman. She was therefore marched back to Asiakwa, and on her arrival, the District Commissioner told her that he would no more try her on the old charges, so he asked the police to withdraw the charges on the ground of "the benefit of doubt ..." She was then ', told to go back to her country to be tried by the Elders of her State. She inquired what had become of her lost one hundred and fifty pounds, and the District Commissioner told her that the accused did not believe that she had that amount in the bag but as she insisted on getting it, the Omanhene of Kwahu would be instructed to examine the case.   
+<p>The man then asked some of his friends to assist in putting the woman's luggage aboard the pontoon. The passengers who were to go on the pontoon were too many, so some of them were eager to push past Konaduwa. It began to rain suddenly. The other ferrymen remained in a hut erected on the other bank of the river, thatched with palm leaves. There was a small fire around which they squatted with their hands spread over it to keep themselves warm. As it was still raining, the passengers remained on the far bank, and by shouting they begged the ferrymen to bring the pontoon to take them across.</p>
+
+ <p>The toll-collector said that because of the dark and attractive woman he would go with the pontoon assisted by one of his friends. When they got to the other side of the river, they found that all the people had been soaked to the skin. Konaduwa's teeth were chattering, and she was trembling with acute fever. She was taken by the hand and placed on the pontoon. Her belongings were removed safely, and because of her illness, care was taken that the vessel would not be overloaded. But the other passengers, freezing with cold, rushed aboard, and one man knocked the sick woman's portmanteau into "the river. A boy saw the man who did so, ’and told him audibly that he had 'sunk' somebody's portmanteau. When they landed, it was found that Konaduwa's portmanteau was missing, the boy pointed out the culprit, who admitted the charge and said he did not do so with intention. </p>
+ 
+<p>The ferryman said that if it did not contain much wealth, the man should buy another one for her; for they could not dive into the river in search of it. But Konaduwa told them P that she was involved in a case which might cost her over one I hundred pounds, so she was on her way to Asiakwa to request the District Commissioner to either squash the case for her or to minimise the fine. In view of the case, she had obtained a loan of one hundred and fifty pounds, partly in cash and partly in trinkets which she could dispose of for cash if needful. She could therefore not go to Asiakwa without the portmanteau and its valuable contents.</p>
+
+ <p>On hearing this, divers jumped into the river in search of it, but all came out again empty-handed. It was sundown, and it was still raining, therefore the men dispersed one by one like people who have come to buy or sell at a market. Konaduwa became infuriated, and though she was ill and cold, she rolled herself hither and thither on the ground and screamed and yelled like a dog who had been frightened, and permitted no consolation.</p>
+ 
+<p>The offender, who had not thought the loss was so great, 2	Note Obeng's use of the Ghanaian term 'trinket' for gold jewellery. In Text B this has been changed to 'jewels'. 26 stood looking at her, and seeing her agony nearly drowned himself. In his apprehension, he stated that a man had hired him for three shillings to go to Dodowa to buy two young sows and a young pig for him. He had received one shilling advance, and the employer gave him fifteen shillings to pay for the pigs. All the money he had on him was sixteen shillings. .He paid his ferry fare with sixpence and it remained fifteen shillings and sixpence. </p>
+
+<p>The case was therefore to be taken to the Odekuro of Anvinam,_who ordered that both Konaduwa and the man should be sent to Kyebi. The woman insisted upon seeing the District ״ Commissioner" first before they reached Kyebi to see the - Omanhene of Abuakwa; but the messengers of the Odekuro did not permit this; they therefore went to Kyebi direct. </p>
+
+<p>According to custom, they had to see an Okyeame before going to the Omanhene; they therefore went to the house of Okyeame Aninkora who led them to the Palace. The messengers gave their errand and after a few questions had been thrown to the parties to ascertain the value of the money involved, the Omanhene told them that he had no jurisdiction over a case involving one hundred and fifty pounds so he asked his Chief-Sword-Bearer to send them to the District Commissioner at Asiakwa. Before they departed, the Omanhene gave them some palm-wine to hold their stomachs. The Anyinam messengers returned to their village, and the Omanhene's man and the two litigants, together with their witnesses, went to Asiakwa.</p>
+
+<p> The sergeant in charge of the Police Barracks was first greeted, and the Okyenhene's messenger told him his errand. Next Konaduwa was asked to make her statement. She did so. The man who had knocked the portmanteau overboard did the same. The next day, the charge-book was put before the District Commissioner. </p>
+
+<p>The Commissioner inquired whether it was a mere com- it or a summons. Konaduwa said she had no more money on her to make any summons, and entreated the District Commissioner to kindly collect her hundred-and-fifty pounds for her. The District Commissioner again inquired why a woman should travel with so much money when she was not going to trade with it.</p>
+
+ <p>This gave the woman the chance to narrate her whole story. She sent for another bag which formed part of her luggage, and emptied the contents, which were the leg-bones of the many sheep slaughtered in Kwahu in connection with her case. At this, the District Commissioner asked her to go home and wait until he heard from the Omanhene of Kwahu about her case. The Registrar was asked to draft a letter to the Omanhene of Kwahu asking for information about one Konaduwa, who had come to him with the legs of many sheep which she alleged were slaughtered against her. The letter was completed and sent to the Asiakwahene for immediate dispatch. </p>
+ 
+<p> The next morning, the District Commissioner came to court to examine the case of the lost portmanteau. When he had heard Konaduwa's statement, he asked the man how he could replace the amount. The man replied that he did not think the A' woman had had that amount of money with her, but because the portmanteau was lost she mentioned that amount. He added that he could not replace it, and the court" would have to punish him in some other way, he would have nothing to say, but to submit to any punishment. Before the District Commissioner could speak, the woman became intensely angry, and began to shower abuse on the man and on the court in general. A constable ordered "Silence," but then she turned on him and said if he had had one hundred and fifty pounds which had been lost through another man's folly, he would not have shouted "Silence, Silence," to disturb them. The constable was so annoyed that he reported the case to the District Commissioner, and threatened to beat the woman after the Court had risen, for as a woman, she had no right to charge him with "Fool", according to the established custom of the Akan. </p>
+
+<p>The woman then said: "Has somebody gone to defecate3 in your ears? When did I charge you with being a fool, you “stupid one?"</p>
+
+ <p>The constable again told the District Commissioner what the woman had said, and he, in turn, ordered that the woman should be charged at once.</p>
+ 
+<p> Mr. Richard Jones, the Registrar, then conferred with the District Commissioner for a few minutes and then sat down to frame the Charge. This ran as follows: </p>
+
+<p>Rex Versus Konaduwa </p>
+
+<p>"That you on the 14th day of July, 1913, at Asiakwa, did insult and abuse Constable Musa Buzanga during the execution of his duty, thus committing contempt of the King's Court. Are you guilty or not guilty?" </p>
+
+<p>"Is this what the English Court is like?" queried the woman astonishingly. "When a case has not been tried, how can one say one is guilty or not? Even if the case has been tried, how do you expect that one should pronounce one's own judgment against oneself? Tell the District Commissioner that I cannot possibly answer that question."</p>
+
+ <p>When he heard this, the District Commissioner said:</p>
+ <p>"Konaduwa, you are making matters worse. At first you com- miffed contempt of the King's Court, and now you are committing the same misdemeanour towards the King's Judge. Mr. Jones, do frame the second charge, and commit the woman for trial."</p>
+ 
+<p> The Registrar promptly obeyed, and wrote and read the charge below to the woman. </p>
+<h4>Rex Versus Konaduwa </h4>
+<p>"That you, on the fourteenth day of July, 1913, at Asiakwa, did speak against the established procedure of the British Court and also against the District Commissioner who is the King's Judge. Are you guilty or not guilty?"</p>
+ <p>"If you ask me this question one hundred times, I will y d remain mum for as many times. Even if I know that I am guilty, I will never tell you that I am guilty, and ask you to pronounce judgment against me. If I tell you that I am not guilty you, would not let me go scot-free; but if I say that I am guilty, you will at once pronounce judgement. The Governor sent you here to decide cases before you get your pay, and if you have not fully learnt how to try cases, you should go back to your own country to learn your law properly and also how to judge cases without troubling a woman by asking her "'Are you guilty or not guilty?" </p>
+ 
+<p> "This woman is demented," said the District Commissioner to Mr. Jones. "I think as that, Sir," replied Mr. Jones. "If so, she should be sent to Accra for mental examination, and if the medical officer thinks it is right, she should be sent to the asylum." Konaduwa was at once handcuffed and given to the Escort police to march her to Accra. The man she had accused, who was captivated by Konaduwa's beauty and teeth, and above all by her stammering, approached the District Commissioner and begged him to punish the woman in any other way, and he would bear the punishment for her for he believed that the loss of her property, amounting to one hundred and fifty pounds motivated her stubbornness. The District Commissioner was inclined to agree, but could not revoke his own orders, so off the police went with the prisoner.</p>
+
+ <p>When they were a few miles out the town, they met a certain man going into town carrying a pot of palm-wine. One of the constables offered to buy it, and when they had emptied the pot, they went off without paying for it. The owner, on insisting payment, was given a sharp slap that sent him down. </p>
+ 
+<p>"What?" cried Konaduwa. "Do you policemen act in this way? Did not your master give you some money to pay your way? When the Asantehene's servants were doing the same thing, your master came and took them away. If that was bad why are you doing the same thing?"</p>
+
+ <p>"If you don't shut up, I will beat you," said one of the constables. </p>
+<p>"You fear to do that," said Konaduwa. "If you dare, you will see that in the flint there is fire."</p>
+
+<p> The corporal hushed his friend and said: "The woman is as dangerous as a loaded gun, so be careful, she can charge you and send you to prison." </p>
+<p>They did not speak with her again. </p>
+<p>Amoako, the ferryman, who was enchanted by the woman, followed them to Accra and to the Principal Medical Officer's office and boldly explained the situation to him. When the doctor examined the woman, he found that she was not mad, but that she had some mental depression which, in his opinion, motivated the impudence" oh the woman. She was therefore marched back to Asiakwa, and on her arrival, the District Commissioner told her that he would no more try her on the old charges, so he asked the police to withdraw the charges on the ground of "the benefit of doubt ..." She was then ', told to go back to her country to be tried by the Elders of her State. She inquired what had become of her lost one hundred and fifty pounds, and the District Commissioner told her that the accused did not believe that she had that amount in the bag but as she insisted on getting it, the Omanhene of Kwahu would be instructed to examine the case.  </p> 
  
 CHAPTER 8
  The Arrest and Trial of Owusu Aduemiri by the District Commissioner for Slave Dealing 
