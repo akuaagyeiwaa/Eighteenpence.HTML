@@ -873,9 +873,9 @@ Akrofi and his wife led a life of happiness, enjoying their wealth, and were kin
 
     <!-- Add more chapters as needed -->
 
-    <footer>
-        <p>&copy; 2024 Author Name. All rights reserved.</p>
-        <p><a href="mailto:author@example.com">Contact the author</a></p>
+     <footer>
+        <p>&copy; 2024 [Akua Agyeiwaa Denkyi-Manieson]. All rights reserved.</p>
     </footer>
+    
 </body>
 </html>
