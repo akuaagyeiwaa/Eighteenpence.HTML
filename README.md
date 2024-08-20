@@ -38,7 +38,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>The Anglo-Fanti by Kobina Sekyi</h1>
+        <h1>Eighteenpence by R.E.Obeng</h1>
         
         <section id="introduction">
             <h2>Chapter One</h2>
