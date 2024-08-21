@@ -1281,5 +1281,3 @@ Konaduwa thanked him with a bow, and tied up her coin in the corner of her handk
         <p>&copy; 2024 [Akua Agyeiwaa Denkyi-Manieson]. All rights reserved.</p>
     </footer>
     
-</body>
-</html>
