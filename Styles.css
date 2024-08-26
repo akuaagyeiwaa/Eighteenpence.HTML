@@ -65,3 +65,13 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+.place-name .abetifi a {
+    color: #0056b3; /* Initial link color */
+    text-decoration: none; /* Remove underline from link */
+}
+
+.place-name .abetifi a:hover {
+    color: crimson; /* Change color on hover */
+    text-decoration: underline; /* Add underline on hover */
+}
