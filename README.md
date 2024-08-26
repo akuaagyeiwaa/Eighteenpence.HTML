@@ -44,11 +44,6 @@
             <h2>Chapter One</h2>
             <h3> The Purchase</h3>
             
-            
-            <p>
-
-	
-The Purchase
 
  <p>IN THE ancient and salubrious town of Abetifi, in the country of Kwahu, in the reign of Nana Addo Kese Pamboo, there lived a man whose name was Obeng-Akrofi. Obeng, though kind- hearted, was as poor as a church rat. He was also so self-conscious that he could not approach any of his friends or relatives for anything. His property on earth, besides his only cloth which was threadbare, was a small dog who followed him anywhere he went. This dog he named "Poor-no-Friend". </p>
  
@@ -66,8 +61,8 @@ The Purchase
 
 <p>The two weeks allowed to Akrofi by the good petty-trader 'tor making good his account elapsed without fulfilment of the obligation. The creditor was justifiably angry, and sent his boy to Akrofi to ask for the money. The sight of the messenger brought Akrofi to his senses, for the pleasure of the work done in his farm had absorbed all his mind so that he had forgotten about this obligation. He fried some of the corn and some of the ground-nuts which he had at hand to regale the boy. When the messenger finished eating, Obeng-Akrofi serif him back to his master with a message that he would see him personally that evening and without fail. Having made several mounds for the ground nuts, and closed the day's work at about five o'clock in the evening, Akrofi went home. </p>
 
-CHAPTER 2
-The Servitude
+<h2>CHAPTER 2</h2>
+<h3>The Servitude</h3>
 <p>WHEN AKROFI had had his bath and eaten the little food left him by his aunt, he asked her to accompany him to the house of his creditor, whose name was Owusu Aduemiri, to ask him for a further extension of time for the settlement of his account. His only hope was to sell the crops of the farm which was being made, and pay him from the income, but his aunt would not go. He wept. With torrents of tears streaking on his cheeks, he went to Owusu with the boldness of a lioness robbed of her cubs, and flung' himself at his feet and most humbly told him his ־errand, concluding ־by' telling Owusu that he would pawn himself to him, and do all the work of a servant until after three months when he knew full well that he could obtain money to pay him. </p>
 
 <p>Owusu did not like to enslave a person on account of eighteenpence; besides, he knew that British laws emphatically suppress slave dealing of all shades, with imprisonment for seven years. He therefore held Akrofi by the hand and raised him from the ground, and told him angrily that he could not accede to such a request. But Akrofi was resolute, and faithfully promised his voluntary services on all Mondays and Saturdays until when the account was closed. To this Owusu gave his assent, and cheerfully Akrofi returned to his house. </p>
@@ -86,8 +81,8 @@ The Servitude
 
 <p>On his arrival, Akrofi went to greet his master according to custom. Owusu inquired as to the whereabouts of his wife. Akrofi told him that he left her in the farm, and nothing else. Aduemiri showed him his food which he had kept for him. This he gulped in a short time. He cleaned the dishes and then put them at their proper places; and after a short conversation about the work in the farm, Akrofi took his leave and went to his house.</p>
 
-CHAPTER 3
-The Quarrel
+<h2>CHAPTER 3</h2>
+<h3>The Quarrel</h3>
 <p>ABOUT SEVEN o'clock that evening, Owusu went to see if his wife had now returned from the farm, and if she had, to ask her why she failed to come or to send somebody to greet him when she arrived from the farm, according to custom. As soon as he entered the house, Konaduwa began to shower abusive words on him. Quite astonished, Owusu stood for a while and then asked: "What is the matter with you? Are you mad or what ails you?"</p>
 
 <p> "Yes, I predicted that these were the very words with which you would welcome me. You can not get any other suitable words to use, of course. I know I am mad and because I am mad cbvou suffered me to stay on your farm till so late an hour; and instead of asking me why I was unable to come home at the usual time, you call me a madwoman. Let me assure you, l am not one of your slaves whom you buy at eighteenpence. If you had all the gold in Australia or California, you, cannot buy me. I swear by your father and mother and Asase  Aban with Fofie and Obonyame on top that you must divorce me tonight. If you refuse the fetish must kill me." </p>
@@ -114,7 +109,7 @@ The Quarrel
 
 He was very much pleased, and said: "How true it is that after a great storm, there is always calm." He then bade Adae 'Good-night', and repaired to his house. 
 
-<h2CHAPTER 4</h2>
+<h2>CHAPTER 4</h2>
 <h3>A Mother's Yearning</h3> 
 <p>AS OWUSU was going go his house, he met with his mother who had gone to his end in his absence several times that evening; and as she could not guess where he had gone, she was going to Akua Adae’s house to inquire if she had seen him. When Qdakwaa Aboroma (for that was the name of Owusu׳s mother) was going to Akua Adae's house, she met with Konaduwa who was very hotly angry. She asked Konaduwa why and with whom she was quarrelling; but she did not receive any answer. She thought Konaduwa was quarrelling with Adae. Odakwaa then turned and looked at Owusu who was being led by his son Atoapoma with a lantern. On seeing the bandage on his head which bore a speck of blood, she exclaimed with horror, saying: "Puei, puei, puei. Aduemiri, you are done for. What gave you this wound. Owusu, do speak to me, I am losing my mind. Are you a living dead?"</p>
 
