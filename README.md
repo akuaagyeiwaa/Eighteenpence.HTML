@@ -46,7 +46,7 @@
             <h3> The Purchase</h3>
             
 
- <p>IN THE ancient and salubrious town of Abetifi, in the country of Kwahu, in the reign of Nana Addo Kese Pamboo, there lived a man whose name was Obeng-Akrofi. Obeng, though kind- hearted, was as poor as a church rat. He was also so self-conscious that he could not approach any of his friends or relatives for anything. His property on earth, besides his only cloth which was threadbare, was a small dog who followed him anywhere he went. This dog he named "Poor-no-Friend". </p>
+ <p>IN THE ancient and salubrious town of <a href="https://en.wikipedia.org/wiki/Abetifi" target="_blank">Abetifi</a>, in the country of Kwahu, in the reign of Nana Addo Kese Pamboo, there lived a man whose name was Obeng-Akrofi. Obeng, though kind- hearted, was as poor as a church rat. He was also so self-conscious that he could not approach any of his friends or relatives for anything. His property on earth, besides his only cloth which was threadbare, was a small dog who followed him anywhere he went. This dog he named "Poor-no-Friend". </p>
  
 <p>Akrofi wanted to ascend to that rung in life in which one is expected to be happy and merry — marriage. As this step cannot be taken in any country without spending of much money, Akrofi was likely to be embarrassed. This prospect of embarrassment goaded him to go to a well-to-do man to ask for a loan. As it is a waste of powder to shoot the man in the moon, so also it was a waste of time for Akrofi to persuade this man to give him any money. Seeing that all his attempts were fruitless, he abandoned this idea and hit on another plan. </p>
 
