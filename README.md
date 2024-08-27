@@ -1280,7 +1280,10 @@ to Anyinam was the worst. Mud was waist deep at several places, and many thorny 
 
 <p>Tipa fully prepared herself and having taken leave of all her friends, she left one afternoon by the Sekondi-Kumasi train and passed the night at Kumasi. </p>
 
-<p>The next day she reached Nkawkaw where she boarded a lorry for Abetifi. When she arrived, her mother was surprised to see how lean she had grown. She explained that her husband had disgraced her, in that he had suspected an illicit friendship between herself and a certain demented policeman, and because of that she could hot eat of sleep soundly, and because of this insomnia she had lost a lot of weight and been reduced to a skeleton. Both her parents were very sorry to hear such a nasty accusation against their daughter.</p>
+<p>The next day she reached <span class="place-name nkawkaw">
+    <a href="https://en.wikipedia.org/wiki/Nkawkaw" target="_blank">Nkawkaw</a>
+</span>
+ where she boarded a lorry for Abetifi. When she arrived, her mother was surprised to see how lean she had grown. She explained that her husband had disgraced her, in that he had suspected an illicit friendship between herself and a certain demented policeman, and because of that she could hot eat of sleep soundly, and because of this insomnia she had lost a lot of weight and been reduced to a skeleton. Both her parents were very sorry to hear such a nasty accusation against their daughter.</p>
 <p>Later, the father said it must have been only a transient impulse of passion on the part of their son-in-law; but not any deep-rooted jealousy that impelled him to doubt the conjugal fidelity of their daughter. </p>
 
 <p>The next day, a telegram was sent to Dawoanom reporting Tipa's safe arrival, and asking him to come home at once. </p>
