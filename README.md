@@ -362,7 +362,10 @@ Konaduwa thanked him with a bow, and tied up her coin in the corner of her handk
  <p>"That you, in Abetifi, in the District of Kwahu in the Eastern Province of the <span class="place-name gold-coast">
     <a href="https://en.wikipedia.org/wiki/Gold_Coast_(British_colony)" target="_blank">Gold Coast</a>
 </span>
-, and within the jurisdiction of this Court, did buy a slave, to wit Obeng-Akrofi, for the sum of £18, contrary to the laws of the Gold Coast. </p>
+, and within the jurisdiction of this Court, did buy a slave, to wit Obeng-Akrofi, for the sum of £18, contrary to the laws of the <span class="place-name gold-coast">
+    <a href="https://en.wikipedia.org/wiki/Gold_Coast_(British_colony)" target="_blank">Gold Coast</a>
+</span>
+. </p>
  
 <p>"Are you guilty or not guilty?"</p> 
 <p>"Not guilty."</p>
@@ -930,7 +933,10 @@ to Anyinam was the worst. Mud was waist deep at several places, and many thorny 
 
 <p>Many people advised him to abandon the farms, and leave the frees to their fate; for that is what many people do. As this advice was repeatedly given him by several of his friends, Akrofi was inclined to take it. But he considered the money he had spent on the farms, and the labour, so he decided to think twice. In the midst of his anguish, it flashed through his mind that he should consult the kind Curator at Aburi about his misfortune. </p>
 
-<p>The orange, the pear and the other fruit trees were thriving, and his wife suggested they had better turn their attention to those, and leave the cocoa alone. In the meantime, the labourers worked the annuals — monkey-nuts, onions, etc. regularly and these yielded abundantly, and fetched sufficient money with which he was able to pay the labourers. But he was unwilling to abandon the cocoa which was supposed to be the chief of the cash crops1 of the Gold Coast. He thought he would go to Aburi as stated above, but circumstances prevented him from doing so, and unfortunately, he could not write. Often he visited the farms, and found that no improvement was forthcoming. At last he made up his mind to go to Aburi where he could tell the Curator all what had befallen his farm, and to obtain advice from him. </p>
+<p>The orange, the pear and the other fruit trees were thriving, and his wife suggested they had better turn their attention to those, and leave the cocoa alone. In the meantime, the labourers worked the annuals — monkey-nuts, onions, etc. regularly and these yielded abundantly, and fetched sufficient money with which he was able to pay the labourers. But he was unwilling to abandon the cocoa which was supposed to be the chief of the cash crops1 of the <span class="place-name gold-coast">
+    <a href="https://en.wikipedia.org/wiki/Gold_Coast_(British_colony)" target="_blank">Gold Coast</a>
+</span>
+. He thought he would go to Aburi as stated above, but circumstances prevented him from doing so, and unfortunately, he could not write. Often he visited the farms, and found that no improvement was forthcoming. At last he made up his mind to go to Aburi where he could tell the Curator all what had befallen his farm, and to obtain advice from him. </p>
 
 <p>The Easter rains had just started, which made travelling dangerous. As stated already there were no good roads and bridges. Therefore despite his anxiety about the condition of the trees in the farm, he could not possibly travel. The rains continued during April to July, and during August, they ceased. Having procured a few presents in the form of ivory knives, eggs, leopard skins, tiger2 skins, monkey skins and python skins and ground-nuts from his farm, he set out with five of his labourers for Aburi. </p>
 
@@ -964,7 +970,10 @@ to Anyinam was the worst. Mud was waist deep at several places, and many thorny 
 
 <p>The farms vielded so abundantly that in a few years Akrofi: was the envy of all who neglected their farms and worked them by the 'rule of thumb'. He was able to send all children to school, some continued in secondary schools and universities. As he was illiterate, he never omitted to express his regret over this, and he spared no money where the education of his children was concerned. They too worked very hard at their studies, and each year found them in a higher class. At the primary school, no other boy was able to compete with them, and they topped their respective classes until they passed the seventh standard. The eldest son, Sam, passed with distinction, and was granted a scholarship at the Prince of Wales School and College. This eased the burden of their father, therefore he was well able to look after the younger son at the same institution. Akrofi's children were not only intelligent, but their conduct, as commented upon by the Principal, was .exemplary, Sam passed through the secondary school easily, and entered the University. Here too, he obtained a scholarship, and was sent to Oxford to complete his studies. His intelligence and good behaviour captivated the masters there, and he was considered a model student. One day, one of his fellow students, who was rebuked by a master because an African had surpassed him, spoke ill against Sam at their hall of residence, and said: "If you surpass me in spelling, you can never beat me in my white skin." Sam replied that "a white paper without black  ink is useless". Some other collegians interfered and advised the British student to report the matter to his tutor. Sam was afraid, for he knew full well that the white people, unlike Africans, always supported their friends. When he was called to see his tutor, he had the heart of a hare, but outwards he put on a brave face. The matter was examined by the Hall authorities, who gave judgment in favour of poor Sam who was really trembling inwardly. Afterwards they all became very friendly and nothing occurred which showed that there was any open contempt of the African colour. </p>
 
-<p>Sam continued there peacefully, and in course of time he successfully passed his exams and obtained the degrees of m.a. and b.c.l.6 and was called to the Bar. He then embarked ' for Africa. On his arrival he obtained an appointment in the service of the Gold Coast Government as a District Magistrate at Osoroase. </p>
+<p>Sam continued there peacefully, and in course of time he successfully passed his exams and obtained the degrees of m.a. and b.c.l.6 and was called to the Bar. He then embarked ' for Africa. On his arrival he obtained an appointment in the service of the <span class="place-name gold-coast">
+    <a href="https://en.wikipedia.org/wiki/Gold_Coast_(British_colony)" target="_blank">Gold Coast</a>
+</span>
+ Government as a District Magistrate at Osoroase. </p>
 
 <p>On the evening of his departure to Accra for instruction, his father gave an 'At Home' in honour of his son's departure; and when the guests were assembled at the table, Akrofi made the following speech in his vernacular. He began:</p>
 
@@ -1048,7 +1057,10 @@ to Anyinam was the worst. Mud was waist deep at several places, and many thorny 
  
  <p>AKROFI WAS arraigned before the District Commissioner on a charge of having dug out a treasure in a jar which was the bona fide property of the Kwahu Stool, and of having kept it for himself without bringing it to the Omanhene and claiming his share. </p>
  
-<p>When the charge was put before the District Commissioner and the Registrar asked Akrofi his plea, the District Commissioner stated that a case involving a sum of one hundred thousand pounds could not be tried by his court; it was therefore transferred to the High Court to be tried by His Lordship the Chief Justice of the Gold Coast Colony and its Dependencies.</p>
+<p>When the charge was put before the District Commissioner and the Registrar asked Akrofi his plea, the District Commissioner stated that a case involving a sum of one hundred thousand pounds could not be tried by his court; it was therefore transferred to the High Court to be tried by His Lordship the Chief Justice of the <span class="place-name gold-coast">
+    <a href="https://en.wikipedia.org/wiki/Gold_Coast_(British_colony)" target="_blank">Gold Coast</a>
+</span>
+ Colony and its Dependencies.</p>
 
 <p>There were many cases already on the Chief Registrar's list and as the charge was not criminal in the sight of British Law, Akrofi was allowed to remain at large. After the disposal of some of the old cases, Akrofi was called before the Judge to explain his case. He was not bound by any Criminal Law, so the Judge asked him not to retain the services of any lawyer, but to make his own statement, for the local lawyers charged exorbitant fees, especially in cases involving large sums of money as Akrofi's did. </p>
 
@@ -1074,7 +1086,10 @@ to Anyinam was the worst. Mud was waist deep at several places, and many thorny 
 
 <p>These, your Lordship, are the facts of the case, and I feel that your Lordship's experience and ability will lead to a prompt decision against the accused, whose offence in endeavouring to steal from the Omanhene this jar and its precious contents is without precedent in the annals of the Kwahu State. I have no doubt that Your Honour has been well convinced, and like Daniel, you are ready to pronounce the right judgment."</p>
 
-<p>He then sat down among the tremendous cheer of the people in the court who were much impressed by his eloquence and good knowledge of Gold Coast history.</p>
+<p>He then sat down among the tremendous cheer of the people in the court who were much impressed by his eloquence and good knowledge of <span class="place-name gold-coast">
+    <a href="https://en.wikipedia.org/wiki/Gold_Coast_(British_colony)" target="_blank">Gold Coast</a>
+</span>
+ history.</p>
 
 <p>His Lordship then made an effort to speak, but before he did so, barrister William James Akotua, rose to his feet, bowed and asked His Lordship's permission to speak. When it was granted, he said:</p> 
 <p>"Your Lordship and gentlemen of the Jury, I must crave your patience. I am not here to spin yarns and prattle and babble to waste the precious time of Your Lordship and the people at the court as my learned friend has done. From what he said, I gather that he has laid all his facts before you. It yet remains that witnesses will prove the certainty of the facts he presented to the court. </p>
