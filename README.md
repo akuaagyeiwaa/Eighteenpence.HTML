@@ -246,7 +246,10 @@ Konaduwa thanked him with a bow, and tied up her coin in the corner of her handk
 
  <p>On hearing this, divers jumped into the river in search of it, but all came out again empty-handed. It was sundown, and it was still raining, therefore the men dispersed one by one like people who have come to buy or sell at a market. Konaduwa became infuriated, and though she was ill and cold, she rolled herself hither and thither on the ground and screamed and yelled like a dog who had been frightened, and permitted no consolation.</p>
  
-<p>The offender, who had not thought the loss was so great, stood looking at her, and seeing her agony nearly drowned himself. In his apprehension, he stated that a man had hired him for three shillings to go to Dodowa to buy two young sows and a young pig for him. He had received one shilling advance, and the employer gave him fifteen shillings to pay for the pigs. All the money he had on him was sixteen shillings. .He paid his ferry fare with sixpence and it remained fifteen shillings and sixpence. </p>
+<p>The offender, who had not thought the loss was so great, stood looking at her, and seeing her agony nearly drowned himself. In his apprehension, he stated that a man had hired him for three shillings to go to <span class="place-name dodowa">
+    <a href="https://en.wikipedia.org/wiki/Dodowa" target="_blank">Dodowa</a>
+</span>
+ to buy two young sows and a young pig for him. He had received one shilling advance, and the employer gave him fifteen shillings to pay for the pigs. All the money he had on him was sixteen shillings. .He paid his ferry fare with sixpence and it remained fifteen shillings and sixpence. </p>
 
 <p>The case was therefore to be taken to the Odekuro of Anvinam,_who ordered that both Konaduwa and the man should be sent to Kyebi. The woman insisted upon seeing the District ״ Commissioner" first before they reached Kyebi to see the - Omanhene of Abuakwa; but the messengers of the Odekuro did not permit this; they therefore went to Kyebi direct. </p>
 
