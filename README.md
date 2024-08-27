@@ -255,7 +255,7 @@ Konaduwa thanked him with a bow, and tied up her coin in the corner of her handk
  to buy two young sows and a young pig for him. He had received one shilling advance, and the employer gave him fifteen shillings to pay for the pigs. All the money he had on him was sixteen shillings. .He paid his ferry fare with sixpence and it remained fifteen shillings and sixpence. </p>
 
 <p>The case was therefore to be taken to the Odekuro of Anyinam, who ordered that both Konaduwa and the man should be sent to <span class="place-name" id="kyebi">
-    <a href="https://en.wikipedia.org/wiki/Kyebi" target="_blank">Kyebi</a>
+    <a href="https://en.wikipedia.org/wiki/Kibi,_Ghana" target="_blank">Kyebi</a>
 </span>
 . The woman insisted upon seeing the District ״ Commissioner" first before they reached Kyebi to see the - Omanhene of <span class="place-name" id="abuakwa">
     <a href="https://en.wikipedia.org/wiki/Abuakwa_Ashanti" target="_blank">Abuakwa</a>
