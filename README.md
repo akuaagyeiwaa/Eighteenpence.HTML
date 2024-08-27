@@ -257,7 +257,10 @@ Konaduwa thanked him with a bow, and tied up her coin in the corner of her handk
 <p>The case was therefore to be taken to the Odekuro of Anyinam, who ordered that both Konaduwa and the man should be sent to <span class="place-name" id="kyebi">
     <a href="https://en.wikipedia.org/wiki/Kyebi" target="_blank">Kyebi</a>
 </span>
-. The woman insisted upon seeing the District ״ Commissioner" first before they reached Kyebi to see the - Omanhene of Abuakwa; but the messengers of the Odekuro did not permit this; they therefore went to Kyebi direct. </p>
+. The woman insisted upon seeing the District ״ Commissioner" first before they reached Kyebi to see the - Omanhene of <span class="place-name" id="abuakwa">
+    <a href="https://en.wikipedia.org/wiki/Abuakwa" target="_blank">Abuakwa</a>
+</span>
+; but the messengers of the Odekuro did not permit this; they therefore went to Kyebi direct. </p>
 
 <p>According to custom, they had to see an Okyeame before going to the Omanhene; they therefore went to the house of Okyeame Aninkora who led them to the Palace. The messengers gave their errand and after a few questions had been thrown to the parties to ascertain the value of the money involved, the Omanhene told them that he had no jurisdiction over a case involving one hundred and fifty pounds so he asked his Chief-Sword-Bearer to send them to the District Commissioner at Asiakwa. Before they departed, the Omanhene gave them some palm-wine to hold their stomachs. The Anyinam messengers returned to their village, and the Omanhene's man and the two litigants, together with their witnesses, went to Asiakwa.</p>
 
