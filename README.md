@@ -753,7 +753,7 @@ Aduemiri's ex-wife, contrary to the customs of this state. Are you guilty or not
 
 <p>In less than five days, he returned to tell the old man that his father was ready to put up the money, on condition that Konaduwa would marry his son Amoako. Amoako's father had seen her when she was on her way going to Asiakwa, and there he had expressed the desire that because of her pearly teeth and of her stammering, he would like to have her in his family.</p>
 
-<p>Konaduwa's mind was sounded by her mother, who said that because of her hard-headedness, she would not allow her to go to marry at Akyem.4 But Konaduwa said that experience had made her more careful and much wiser, so she could marry "from any part of the country peacefully. Her maternal relatives were then informed of the suitor. </p>
+<p>Konaduwa's mind was sounded by her mother, who said that because of her hard-headedness, she would not allow her to go to marry at Akyem. But Konaduwa said that experience had made her more careful and much wiser, so she could marry "from any part of the country peacefully. Her maternal relatives were then informed of the suitor. </p>
 
 <p>That very day another young man from one of the neighbouring villages came to ask for Konaduwa's hand. Her relatives wished her to marry him, but she did not agree. Many more suitors came in every other day, but she rejected them all. It was pointed out to her that it was better and much safer for a person to marry from her home town, but she asked. "If that were true, why did <span class="personal-name owusu">Owusu</span>
  divorce me?" Every day more and more suitors arrived; but she was resolute. </p>
