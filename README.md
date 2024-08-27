@@ -237,7 +237,10 @@ He was very much pleased, and said: "How true it is that after a great storm, th
 
 <h2>CHAPTER 7 </h2>
 <h3>Before the District Commissioner </h3>
-<p>WHEN THE assembly broke up, Konaduwa sped quickly away with the intention to go to Asiakwa to report the case to the District Coin mission er. But at Anyinam, the Birem had overflown its banks and a ferry-toll of sixpence was exacted by the ferrvmen from, every passenger. Konaduwa was asked by one of the ferrymen to pay the amount. A smile like eternal sunshine parted her lips and brightened her teeth, which had a gap at the centre of the upper row.</p>
+<p>WHEN THE assembly broke up, Konaduwa sped quickly away with the intention to go to <span class="place-name asiakwa">
+    <a href="https://en.wikipedia.org/wiki/Asiakwa" target="_blank">Asiakwa</a>
+</span>
+ to report the case to the District Coin mission er. But at Anyinam, the Birem had overflown its banks and a ferry-toll of sixpence was exacted by the ferrvmen from, every passenger. Konaduwa was asked by one of the ferrymen to pay the amount. A smile like eternal sunshine parted her lips and brightened her teeth, which had a gap at the centre of the upper row.</p>
 
 ”׳By Jove”, exclaimed the ferry-man, "this woman has exceptionally fine teeth. Madam., keep your sixpence and I will pay it for you."
 Konaduwa thanked him with a bow, and tied up her coin in the corner of her handkerchief. 
