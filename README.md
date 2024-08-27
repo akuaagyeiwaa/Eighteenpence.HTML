@@ -370,7 +370,7 @@ Konaduwa thanked him with a bow, and tied up her coin in the corner of her handk
 <p>"You told the police your husband had bought a slave at Abetifi?"</p> 
 <p>"Yes." </p>
 <p>"For how much?" </p>
-<p>"Does not the police know book?"2 she retorted. "If he is literate, why did he not write all what I told him at Abetifi?" "He wrote all what you told him at Abetifi."</p>
+<p>"Does not the police know book?" she retorted. "If he is literate, why did he not write all what I told him at Abetifi?" "He wrote all what you told him at Abetifi."</p>
 <p> "All right." </p>
 <p>"Tell the Court at what price your husband bought the slay."</p> 
 <p>"At the price which the police heard me say at Abetifi." </p>
