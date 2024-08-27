@@ -836,7 +836,7 @@ Aduemiri's ex-wife, contrary to the customs of this state. Are you guilty or not
 <p>He therefore engaged two Hausa labourers at a reasonable wage, who helped him to enlarge his farms. Several acres were tilled, the ground dug and beds were raised. People who passed by and saw the trouble he took in digging so deeply and raising beds in European style,_were greatly surprised and amused, for to their minds he was wasting time and strength and money. They pointed out to him that from time immemorial their ancestors had been doing the farms in the old way yet had reaped appreciable harvests, therefore it was sheer folly on the part of Akrofi to go to so much trouble. But as hard as they tried, they could not understand why Akrofi wasted such time and money so unnecessarily. </p>
 
 <p>Akrofi, to satisfy them, explained that he had stayed with a European miner at <span class="place-name oboase">
-    <a href="https://en.wikipedia.org/wiki/Oboase" target="_blank">Oboase</a>
+    <a href="https://en.wikipedia.org/wiki/Obuasi" target="_blank">Oboase</a>
 </span>
  where he was employed as a gardener. There he learned that to farm by "the rule of thumb" was not only ridiculous, but entirely useless in the right sense of the word. But, they could not understand this, nor see why he laid out such a large farm, and planted short hedges between the various sections. They thought this was not at all necessary; for to farm by the "rule of thumb" all the different kinds of crops are planted or sown at random all over the farm. Yams, corn, onions, pepper, cassava, ground- and tiger-nuts, and what not, were grown together in confusion. What puzzled them the more was the distances between the crops which he patiently measured. </p>
 
