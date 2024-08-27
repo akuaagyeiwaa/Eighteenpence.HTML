@@ -258,7 +258,7 @@ Konaduwa thanked him with a bow, and tied up her coin in the corner of her handk
     <a href="https://en.wikipedia.org/wiki/Kyebi" target="_blank">Kyebi</a>
 </span>
 . The woman insisted upon seeing the District ״ Commissioner" first before they reached Kyebi to see the - Omanhene of <span class="place-name" id="abuakwa">
-    <a href="https://en.wikipedia.org/wiki/Abuakwa" target="_blank">Abuakwa</a>
+    <a href="https://en.wikipedia.org/wiki/Abuakwa_Ashanti" target="_blank">Abuakwa</a>
 </span>
 ; but the messengers of the Odekuro did not permit this; they therefore went to Kyebi direct. </p>
 
