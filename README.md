@@ -148,7 +148,10 @@ He was very much pleased, and said: "How true it is that after a great storm, th
 
 <h2>CHAPTER 5</h2>
 <h3>The Report </h3>
-<p>AMONG THE men assembled there, was one whom Odakwa respected. This man held her by the hand, and led her to her house, when Konaduwa was still brawling. Not long after her departure, Kwaku Anyinam, a trusted minister to Nana Addo Kwame, happened to pass by on his own accord. When Konaduwa saw him she shouted more loudly, and repeated the words she first spoke to Akua Adae, her rival, at the beginning of the quarrel. She then lay a stronger emphasis on these words:</p>
+<p>AMONG THE men assembled there, was one whom Odakwa respected. This man held her by the hand, and led her to her house, when Konaduwa was still brawling. Not long after her departure, Kwaku <span class="place-name anyinam">
+    <a href="https://en.wikipedia.org/wiki/Anyinam" target="_blank">Anyinam</a>
+</span>
+, a trusted minister to Nana Addo Kwame, happened to pass by on his own accord. When Konaduwa saw him she shouted more loudly, and repeated the words she first spoke to Akua Adae, her rival, at the beginning of the quarrel. She then lay a stronger emphasis on these words:</p>
 <p> "You say the Adontenhene and his Elders, including Nana Adoma Hemma, the Queenmother, are all extortioners. You will be answerable sometime to the owners of this town." </p>
 <p>When Anyinam heard this, he exclaimed: "Madam Konaduwa, I have found a treasure-trove in your mouth. You say somebody lives in this town who has been so fearlessly able to speak against the Adontenhene whose justice, generosity and affection towards his subjects is known throughout Akyem, Asante, Kotoku, Accra and Akuapem? You say that the same person had the audacity to speaking ill against our gracious and esteemed Queen-Mother as well as the Elders of Abetifi. Why did you not report the case officially to the Linguist, so that sheep might be slaughtered before the news reaches the Elders? You have intentionally concealed the matter and you have therefore broken the Great Oath of the Omanhene, to whom you will be answerable." </p>
 
