@@ -139,4 +139,13 @@ footer a:hover {
     color: crimson; /* Change color on hover */
     text-decoration: underline; /* Add underline on hover */
 }
+.place-name .oboase a {
+    color: #0056b3; /* Initial link color */
+    text-decoration: none; /* Remove underline from link */
+}
+
+.place-name .oboase a:hover {
+    color: crimson; /* Change color on hover */
+    text-decoration: underline; /* Add underline on hover */
+}
 
