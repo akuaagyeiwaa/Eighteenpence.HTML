@@ -281,7 +281,7 @@ Konaduwa thanked him with a bow, and tied up her coin in the corner of her handk
  
 <p> Mr. Richard Jones, the Registrar, then conferred with the District Commissioner for a few minutes and then sat down to frame the Charge. This ran as follows: </p>
 
-<p>Rex Versus Konaduwa </p>
+<h3>Rex Versus Konaduwa </h3>
 
 <p>"That you on the 14th day of July, 1913, at Asiakwa, did insult and abuse Constable Musa Buzanga during the execution of his duty, thus committing contempt of the King's Court. Are you guilty or not guilty?" </p>
 
