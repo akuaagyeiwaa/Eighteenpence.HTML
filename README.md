@@ -1223,8 +1223,8 @@ to Anyinam was the worst. Mud was waist deep at several places, and many thorny 
 <p>At the top of the roof, Akrofi made two replicas of a cutlass in massive gold and wrote with silver letters the word EIGHTEENPENCE, which he fixed at each end of the roof showing the public that a cutlass that cost him eighteenpence - was the beginning of his good fortune.</p>
  <p>It was obvious that the central power of Akrofi's personal  magnetism, which held together all what he possessed was ' nothing but industry which brought fortune in its train. This was the central power of the Attraction of Cohesion!</p>
  
-<p>CHAPTER 18</p>
-<p>The Ingratitude.</p> 
+<h2>CHAPTER 18</h2>
+<h3>The Ingratitude.</h3> 
 <p>Poor-No-Friend </p>
 <p>WE HAVE heard that Akrofi's wealth attracted many people to him who claimed to be his relatives. Some were near, others remote relatives; others again were no relatives at all. Among the distant relatives came a certain man whose name was Kofi Dawoanom. </p>
 
