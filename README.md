@@ -359,7 +359,10 @@ Konaduwa thanked him with a bow, and tied up her coin in the corner of her handk
 <p>This statement was read over to her two times, and the writer asked whether she wanted to make any alteration, or amend or delete anything which she did not like to embody in the statement. She rather hastily took the pen and made her mark on the paper, before the Omanhene and the assembly. Then the prisoner was brought before the District Commissioner and his charge was read to him as follows. </p>
 <h4>Rex Versus <span class="personal-name owusu">Owusu</span>
  Aduemiri</h4>
- <p>"That you, in Abetifi, in the District of Kwahu in the Eastern Province of the Gold Coast, and within the jurisdiction of this Court, did buy a slave, to wit Obeng-Akrofi, for the sum of £18, contrary to the laws of the Gold Coast. </p>
+ <p>"That you, in Abetifi, in the District of Kwahu in the Eastern Province of the <span class="place-name gold-coast">
+    <a href="https://en.wikipedia.org/wiki/Gold_Coast_(British_colony)" target="_blank">Gold Coast</a>
+</span>
+, and within the jurisdiction of this Court, did buy a slave, to wit Obeng-Akrofi, for the sum of £18, contrary to the laws of the Gold Coast. </p>
  
 <p>"Are you guilty or not guilty?"</p> 
 <p>"Not guilty."</p>
