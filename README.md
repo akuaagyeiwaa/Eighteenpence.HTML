@@ -423,7 +423,7 @@ Konaduwa thanked him with a bow, and tied up her coin in the corner of her handk
 <p>Ref. No. 47/B.B./Case 78/13 District </p>
 <p>Commissioner's Office </p>
 <p>Asiakwa, Birim District. </p>
-<p><7 August, 1913.</p>
+<p>7 August, 1913.</p>
 
  <p>My Good Friend,</p>
  <p>I have the honour to inform you that I have examined Owusu Aduemiri under the Charge of "Dealing in the Slave Trade." I have examined Owusu Aduemiri, together with the witnesses for and against the Prosecution, and found that Obeng-Akrofi, the man alleged to have been sold and bought, did voluntarily work for Owusu but once on account of the paltry sum of One shilling and Sixpence, an amount which cannot possibly buy a fowl of fairly good size. Owusu's wife who was the principal witness for the prosecution, now gave evidence that Obeng-Akrofi owed her husband the amount mentioned above, but not £18 as she told the police before you. This being the case, the Court found that there is no case in the matter, and Owusu has consequently been released from the Charge.</p>.
