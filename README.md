@@ -416,7 +416,7 @@ Konaduwa thanked him with a bow, and tied up her coin in the corner of her handk
 <p> "Sergeant, then there is no case," said the Magistrate. "Send them back to the Omanhene of Kwahu, and ask him to  punish this woman for having falsely accused her husband." </p>
 <p>"I never knew that you did not know how to try cases. In my town, when two men get a case, they all make their statements. Then the Elders question them, and fix a point which is to be proved by the witnesses; but there is nothing of this sort at this court. I prefer to go back to be tried by the Elders of my State."</p>
 
-<p>CHAPTER 9</p>
+<h2>CHAPTER 9</h2>
 <p>The Transfer of Owusu's Case to the Omanhene of Kwahu. Konaduwa Divorced </p>
 
 <p>KONADUWA HAVING said this, the Court rose, and the District Commissioner drafted the following letter and gave it to his Correspondence Clerk for typing. </p>
