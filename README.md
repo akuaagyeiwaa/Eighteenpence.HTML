@@ -134,7 +134,7 @@ He was very much pleased, and said: "How true it is that after a great storm, th
 <h2>CHAPTER 4</h2>
 <h3>A Mother's Yearning</h3> 
 <p>AS <span class="personal-name owusu">Owusu</span>
- was going go his house, he met with his mother who had gone to his end in his absence several times that evening; and as she could not guess where he had gone, she was going to Akua Adae’s house to inquire if she had seen him. When Qdakwaa Aboroma (for that was the name of <span class="personal-name owusu">Owusu</span>
+ was going go his house, he met with his mother who had gone to his end in his absence several times that evening; and as she could not guess where he had gone, she was going to Akua Adae’s house to inquire if she had seen him. When Odakwaa Aboroma (for that was the name of <span class="personal-name owusu">Owusu</span>
 ׳s mother) was going to Akua Adae's house, she met with Konaduwa who was very hotly angry. She asked Konaduwa why and with whom she was quarrelling; but she did not receive any answer. She thought Konaduwa was quarrelling with Adae. Odakwaa then turned and looked at <span class="personal-name owusu">Owusu</span>
  who was being led by his son Atoapoma with a lantern. On seeing the bandage on his head which bore a speck of blood, she exclaimed with horror, saying: "Puei, puei, puei. Aduemiri, you are done for. What gave you this wound. <span class="personal-name owusu">Owusu</span>
 , do speak to me, I am losing my mind. Are you a living dead?"</p>
