@@ -6,6 +6,7 @@
     <title>Eighteenpence by R.E.Obeng</title>
     <link rel="stylesheet" href="css/styles.css">
      <link rel="stylesheet" href="styles.css">
+	 <script src="scripts.js"></script>
     <style>
         body {
             font-family: Arial, sans-serif;
