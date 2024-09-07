@@ -230,3 +230,12 @@ footer a:hover {
     color: crimson; /* Change color on hover */
     text-decoration: underline; /* Add underline on hover */
 }
+.place-name .groats a {
+    color: #0056b3; /* Initial link color */
+    text-decoration: none; /* Remove underline from link */
+}
+
+.place-name .groats a:hover {
+    color: crimson; /* Change color on hover */
+    text-decoration: underline; /* Add underline on hover */
+}
