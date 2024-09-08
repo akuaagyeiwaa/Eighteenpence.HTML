@@ -266,3 +266,12 @@ footer a:hover {
     color: crimson; /* Change color on hover */
     text-decoration: underline; /* Add underline on hover */
 }
+.vocabulary .akwasidae a {
+    color: #0056b3; /* Initial link color */
+    text-decoration: none; /* Remove underline from link */
+}
+
+.vocabulary .akwasidae a:hover {
+    color: crimson; /* Change color on hover */
+    text-decoration: underline; /* Add underline on hover */
+}
