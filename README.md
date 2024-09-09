@@ -107,7 +107,7 @@ and many other places with bundles of cocoa bags, to buy and convey it. The pric
 
 <p> "Yes, I predicted that these were the very words with which you would welcome me. You can not get any other suitable words to use, of course. I know I am mad and because I am mad cbvou suffered me to stay on your farm till so late an hour; and instead of asking me why I was unable to come home at the usual time, you call me a madwoman. Let me assure you, l am not one of your slaves whom you buy at eighteenpence. If you had all the gold in 
   <span class="place-name"><a href="https://en.wikipedia.org/wiki/Australia" target="_blank">Australia</a></span>
- or California, you, cannot buy me. I swear by your father and mother and Asase  Aban with Fofie and Obonyame on top that you must divorce me tonight. If you refuse the fetish must kill me." </p>
+ or California, you, cannot buy me. I swear by your father and mother and <i>Asase  Aban</i> with <i>Fofie</i> and <i>Obonyame</i> on top that you must divorce me tonight. If you refuse the fetish must kill me." </p>
 
  <p>When <span class="personal-name">Owusu</span> <script src="scripts.js"></script>
  heard these words, he became a Zachariah. He placed one foot outside the threshold of the entrance door, and as he was bringing the other, <span class="personal-name">Konaduwa</span> <script src="scripts.js"></script>, who was angry in the last degree, came quickly and took hold of his cloth, and pulled him down, and gave him a sharp slap on the cheek <span class="personal-name">Owusu</span> <script src="scripts.js"></script>
